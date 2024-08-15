@@ -1,13 +1,13 @@
 .live-chat {
   background: conic-gradient(from 180deg at 69.58% 44.09%, #F5AC76 0deg, #FECB7F 360deg);
-  width: 100vw;
+  width: 100%;
   height: 828.15px;
   top: 1697px;
   padding: 50px 0px 50px 0px;
   gap: 0px;
   opacity: 0px;
   margin-top: 150px;
-  margin-left: -8px;
+  margin-left: 0px;
 }
 
 .live-main-text {
